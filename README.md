@@ -1,0 +1,2 @@
+# Ebooks4LL-Tuto
+We aim to provide a digital curation of learning resources in the form of an interactive mobile application by leveraging already existing Free South African Primary and High School Textbooks like Mind the Gap. This means providing a gamification experience and improving accessibility of these learning resources by providing interactive study guides and tests, self/automatic homework evaluation, video and cartoon based tutorials/lessons. The goal is to have the application adopted in South African schools that are short of textbooks.
